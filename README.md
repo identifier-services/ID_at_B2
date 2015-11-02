@@ -7,7 +7,7 @@ To paraphrase Wikipedia: [Apollo](https://en.wikipedia.org/wiki/Apollo#Greco-Rom
 
 The ambitious, if not quite a moon shot, goal of this workshop is to shed light on new solutions for identifier technology that allow scientists to analyze, publish, and reuse big data.
 
-For more information, read the project summary below, and visit the (wiki)[https://github.com/identifier-services/phoibos2/wiki].
+For more information, read the project summary below, and visit the [wiki](https://github.com/identifier-services/phoibos2/wiki).
 
 ####Project Summary:
 In the era of big data and informatics, there is growing awareness of the need for permanent, globally unique identifiers for both physical specimens and digital data, leading to the development of new systems for minting, tracking, resolving, and querying identifiers. Although multiple reports on the characteristics of and best practices for different identifier types have been published recently, there has been little empirical research on the functionality of identifiers or the services that support them, especially pre-publication. Practitioners working with identifiers on a daily basis are undoubtedly aware of the technical and social issues and limitations surrounding identifier systems, but they may not yet have pushed their systems to the limit with very large, multidisciplinary datasets. Our goals for this workshop are to bring together these practitioners to summarize the current state of the field, identify and elucidate the technical issues, and propose solutions. The workshop will incorporate elements of a hackathon in that participants will be expected to develop some initial implementations, but outputs may also include non-technical products like a draft proposal, a survey, or educational materials.
@@ -16,4 +16,4 @@ Scientific identifier meetings to date have been primarily been domain focused (
 
 This workshop will bring together researcher at the cutting edges of their fields to identify gaps and bottlenecks in identifier and data management systems and propose solutions. The workshop should be mutually beneficial to all participants and their respective communities, by focusing on real use cases in order to overcome their most pressing challenges. The outcomes of this workshop have the potential to impact the way identifiers are applied and used across science and even more broadly. 
 
-See the full project summary (here). [https://github.com/identifier-services/IDworkshopatB2/blob/master/docs/Project%20Summary%20ID%20Workshop.docx]
+See the full project summary [here](https://github.com/identifier-services/IDworkshopatB2/blob/master/docs/Project%20Summary%20ID%20Workshop.docx).
